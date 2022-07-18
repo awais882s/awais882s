@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/awais882s" target="blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p>
 
+- 🔭 My 1st Project [Bank App](https://my-bank-882s.web.app/)
 - 🔭 I’m currently working **As Frontend Engineer.**
 
 - 🥅 2022 Goals: **Contribute more to Open Source projects on React.**
