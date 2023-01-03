@@ -14,7 +14,7 @@
 
 - 🥅 2022 Goals: **Contribute more to Open Source projects on React.**
 
-- 👯 I’m currently **expanding my knowledge in MERN Stack.**
+- 👯 I’m currently **expanding my knowledge in Full Stack Developer|Blockchain|React|ReactNative|NodeJS.**
 
 - 📢 Love to teach and inspire students. **with other content creators and developers.**
 
