@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais(Prince) </h1>
+<h1 align="center">Hi 👋, I'm Muhammad Awais(Software Engineer) </h1>
 <h3 align="center">Full Stack Developer|Blockchain|React|ReactNative|NodeJS</h3>
 
 
