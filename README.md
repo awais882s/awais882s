@@ -9,20 +9,20 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://dev.to/awais882s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="awais882s" height="30" width="40" /></a>
-<a href="https://twitter.com/awais882s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awais882s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/awais882s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais882s" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19369637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19369637" height="30" width="40" /></a>
-<a href="https://fb.com/awais882s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais882s" height="30" width="40" /></a>
-<a href="https://instagram.com/awais8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awais8s" height="30" width="40" /></a>
-<a href="https://medium.com/@mawaisiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mawaisiq" height="30" width="40" /></a>
+<a href="https://dev.to/awais882s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="awais882s" height="30" width="40" /></a>
+<a href="https://twitter.com/awais882s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awais882s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/awais882s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais882s" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19369637" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19369637" height="30" width="40" /></a>
+<a href="https://fb.com/awais882s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais882s" height="30" width="40" /></a>
+<a href="https://instagram.com/awais8s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awais8s" height="30" width="40" /></a>
+<a href="https://medium.com/@mawaisiq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mawaisiq" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awais882s&label=Profile%20views&color=0e75b6&style=flat" alt="awais882s" /> </p>
 
-<p align="left"> <a href="https://github.com/awais882s/My-React-Bank"><img src="https://github-profile-trophy.vercel.app/?username=awais882s" alt="awais882s" /></a> </p></br>
+<p align="left"> <a href="https://github.com/awais882s/My-React-Bank" target="_blank" ><img src="https://github-profile-trophy.vercel.app/?username=awais882s" alt="awais882s" /></a> </p></br>
 
-<p align="left"> <a href="https://twitter.com/awais882s" target="blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p></br>
+<p align="left"> <a href="https://twitter.com/awais882s" target="_blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p></br>
 
 - 😊 My Protfolio You Can Visit https://me-awais.netlify.app/ 
 - 🔭 My 1st Project [Bank App](https://my-bank-882s.web.app/)
