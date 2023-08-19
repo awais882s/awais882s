@@ -6,7 +6,6 @@
     <img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
 </a>
 </br></br></br>
-<p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a>
 <h1 align="left"> 🤝🏻 Connect with me:</h1></p><br>
 <p align="left">
 <a href="https://dev.to/awais882s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="awais882s" height="30" width="40" /></a>
@@ -55,10 +54,15 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
   </a>
 </div>
+<h2><i>⚙️ GitHub Analytics</i></h2>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awais882s&show_icons=true&locale=en&layout=compact" alt="awais882s" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awais882s&show_icons=true&locale=en" alt="awais882s" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awais882s&" alt="awais882s" /></p>
+  <p align="center">
+        <a href="https://github.com/awais882s">
+            <img height="180em"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=awais882s&show_icons=true&locale=en&layout=compact" />
+            <img height="180em"
+                src="https://github-readme-stats.vercel.app/api?username=awais882s&show_icons=true&locale=en" />
+        </a>
+        <img width="50%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=awais882s&" />
+    </p>
