@@ -6,7 +6,7 @@
     <img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
 </a>
 </br></br></br>
-
+<p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://dev.to/awais882s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="awais882s" height="30" width="40" /></a>
