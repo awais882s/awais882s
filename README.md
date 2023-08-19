@@ -23,7 +23,6 @@
 
 <p align="left"> <a href="https://twitter.com/awais882s" target="_blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p></br>
 
-<h1> 🤝🏻 Bio</h1></p><br>
 <!-- Bio -->
 - 👋 Hello! I'm Muhammad Awais, a Software Engineering student with a strong foundation and notable projects
 - 💪 I'm skilled in the MERN stack, and front-end development. 
