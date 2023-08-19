@@ -24,24 +24,27 @@
 
 <p align="left"> <a href="https://twitter.com/awais882s" target="_blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p></br>
 
-- 😊 My Protfolio You Can Visit https://me-awais.netlify.app/ 
-- 🔭 My 1st Project [Bank App](https://my-bank-882s.web.app/)
-- 🔭 I’m currently working Full Stack Developer|Blockchain|React|ReactNative|NodeJS **.**
 
-- 🥅 2022 Goals: **Contribute more to Open Source projects on React.**
-
-- 👯 I’m currently **expanding my knowledge in Full Stack Developer|Blockchain|React|ReactNative|NodeJS.**
-
-- 📢 Love to teach and inspire students. **with other content creators and developers.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/awais882s](https://github.com/awais882s)
-
+<!-- Bio -->
+- 👋 Hello! I'm Muhammad Awais, a Software Engineering student with a strong foundation and notable projects
+- 💪 I'm skilled in the MERN stack, and front-end development. 
+- 🔭 Currently working As Full Stack Engineer in the Developers Den.
+- ⚙️ My advanced skills include HTML/CSS, Bootstrap, JavaScript,  React, Next.js, MongoDB, MySQL, and SQL WorkBench.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/awais882s/)**.
+- 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Love to teach and inspire students.
+- 🥅 2023 Goals: Expand my knowledge and skills in software development.
 - 📫 How to reach me **mawaisiq@gmail.com**
+- 📩 Don't hesitate to reach out & let's connect and start a conversation. 📞
+- 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights. Together, we can create remarkable digital solutions that leave a lasting impact. 💼✨
+- 🔭 My 1st Project [Bank App](https://my-bank-882s.web.app/)
+- 📢 Love to teach and inspire students. **with other content creators and developers.**
+- 👨‍💻 All of my projects are available at [https://github.com/awais882s](https://github.com/awais882s)
+- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/muhammad-awais/de55e4b6-c929-4eb5-8e61-8bbc2bfe370a?view=html])
 
-- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/muhammad-awais/de55e4b6-c929-4eb5-8e61-8bbc2bfe370a?view=html ](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/muhammad-awais/de55e4b6-c929-4eb5-8e61-8bbc2bfe370a?view=html )
 
-
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awais882s&show_icons=true&locale=en&layout=compact" alt="awais882s" /></p>
