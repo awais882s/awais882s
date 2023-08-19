@@ -1,7 +1,12 @@
 <h1 align="center">Hi I am Muhammad Awais Software Engineer</h1>
 
 <h2 align="center"> Full Stack Developer | Blockchain | React | ReactNative | NodeJS | NextJs | MySQL | MongoDB </h2>
- 
+
+ <!-- -------Header------- -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Software-Engineer;BlackChain Developer;Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
+</p>
 <a href="https://github.com/awais882s">
     <img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
 </a>
