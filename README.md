@@ -2,8 +2,9 @@
 
 <h2 align="center">Full Stack Developer|Blockchain|React|ReactNative|NodeJS</h3>
 
-
-<img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
+<a href="https://github.com/awais882s">
+    <img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awais882s&label=Profile%20views&color=0e75b6&style=flat" alt="awais882s" /> </p>
 
 <p align="left"> <a href="https://github.com/awais882s/My-React-Bank"><img src="https://github-profile-trophy.vercel.app/?username=awais882s" alt="awais882s" /></a> </p>
