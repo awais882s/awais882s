@@ -5,13 +5,22 @@
 <a href="https://github.com/awais882s">
     <img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
 </a>
-</br>
-
+</br></br></br>
+## 🤝🏻 &nbsp;Connect with Me
+<div align="center" >
+<a target="_blank" href="https://www.linkedin.com/in/umairazmat/"><img src="https://img.shields.io/badge/-umairazmat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-umairazmatdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a target="_blank" href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-umairazmat-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
+<a target="_blank" href="https://leetcode.com/umairazmat/"><img src="https://img.shields.io/badge/-umairazmat-FFDD00?style=flat&logo=LeetCode&logoColor=black"/></a>
+<a target="_blank" href="https://umairazmat.me/"><img src="https://img.shields.io/badge/-umairazmat-000000?style=flat&logo=About.me&logoColor=white"/></a>
+<a target="_blank" href="https://www.buymeacoffee.com/devumair26o"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/>
+ </a>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awais882s&label=Profile%20views&color=0e75b6&style=flat" alt="awais882s" /> </p>
 
 <p align="left"> <a href="https://github.com/awais882s/My-React-Bank"><img src="https://github-profile-trophy.vercel.app/?username=awais882s" alt="awais882s" /></a> </p></br>
 
-<p align="left"> <a href="https://twitter.com/awais882s" target="blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/awais882s" target="blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p></br>
 
 - 😊 My Protfolio You Can Visit https://me-awais.netlify.app/ 
 - 🔭 My 1st Project [Bank App](https://my-bank-882s.web.app/)
