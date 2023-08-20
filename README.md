@@ -11,7 +11,7 @@
     <img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
 </a>
 </br></br>
-<h1>##  ✅❤️ Github Live Development 🎉🎯</h1>
+<h1>✅❤️ Github Live Development 🎉🎯</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505876/github-user-contribution_2_zlnllh.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505723/github-user-contribution_djkqqu.svg">
