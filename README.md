@@ -11,6 +11,16 @@
     <img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
 </a>
 </br></br>
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31lny4roz44v7euwwdd4nqki26yy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <h1>✅❤️ Github Live Development 🎉🎯</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505876/github-user-contribution_2_zlnllh.svg">
