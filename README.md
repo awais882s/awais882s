@@ -4,13 +4,14 @@
 
  <!-- -------Header------- -->
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Software-Engineer;BlackChain Developer;Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=450&height=60&color=#fece00&vCenter=true&size=50&pause=1000">
-</p>
+</h1>
 <a href="https://github.com/awais882s">
     <img src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692428044/Purple_and_Yellow_Colorful_LinkedIn_Article_Cover_Image_1_yqsi5j.png" alt="awais882s" /> 
 </a>
-##  ✅❤️ Github Live Development 🎉🎯 
+</br></br>
+<h1>##  ✅❤️ Github Live Development 🎉🎯</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505876/github-user-contribution_2_zlnllh.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505723/github-user-contribution_djkqqu.svg">
