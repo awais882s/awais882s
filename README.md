@@ -13,17 +13,6 @@
 </br></br>
 
 
-
-<div align="center">
-  <a href="![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lny4roz44v7euwwdd4nqki26yy)">
-    <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://spotify-recently-played-readme.vercel.app/api?user=31lny4roz44v7euwwdd4nqki26yy)" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
-
 <h1>✅❤️ Github Live Development 🎉🎯</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505876/github-user-contribution_2_zlnllh.svg">
