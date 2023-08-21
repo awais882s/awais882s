@@ -93,9 +93,10 @@
   </a>
 </div></br>
 <h1><i>⚙️ GitHub Analytics</i></h1>
-[![awais882s's GitHub | Stats](https://stats.quine.sh/awais882s/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=awais882s)
-[![awais882s's GitHub | Topics Over Time](https://stats.quine.sh/awais882s/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=awais882s)
-[![awais882s's GitHub | Languages Over Time](https://stats.quine.sh/awais882s/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=awais882s)
+ 
+[![awais882s's GitHub | Stats](https://stats.quine.sh/awais882s/github?theme=dark)]()
+[![awais882s's GitHub | Topics Over Time](https://stats.quine.sh/awais882s/topics-over-time?theme=dark)]()
+[![awais882s's GitHub | Languages Over Time](https://stats.quine.sh/awais882s/languages-over-time?theme=dark)]()
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
   <p align="center">
