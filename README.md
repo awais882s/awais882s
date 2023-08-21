@@ -92,7 +92,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
   </a>
 </div></br>
-<h1><i>⚙️ GitHub Analytics</i></h1>
+<h1><i>⚙️My GitHub Analytics</i></h1>
  
 [![awais882s's GitHub | Stats](https://stats.quine.sh/awais882s/github?theme=dark)]()
 [![awais882s's GitHub | Topics Over Time](https://stats.quine.sh/awais882s/topics-over-time?theme=dark)]()
