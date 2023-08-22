@@ -94,12 +94,6 @@
 </div></br>
 
 <h1><i>⚙️My GitHub Analytics</i></h1>
-<!-- <!-- Dark Mode Links -->
-
-  <img src="https://stats.quine.sh/awais882s/github?theme=dark" alt="Dark Mode Stats">
-  <img src="https://stats.quine.sh/awais882s/topics-over-time?theme=dark" alt="Dark Mode Topics Over Time">
-  <img src="https://stats.quine.sh/awais882s/languages-over-time?theme=dark" alt="Dark Mode Languages Over Time"> -->
-
 <!-- Light Mode Links -->
 
   <img src="https://stats.quine.sh/awais882s/github?theme=light" alt="Light Mode Stats">
