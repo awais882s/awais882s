@@ -94,12 +94,19 @@
 </div></br>
 
 <h1><i>⚙️My GitHub Analytics</i></h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/awais882s/github?theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.quine.sh/awais882s/github?theme=light">
-</picture>
-<h1><i>⚙️My GitHub Analytics</i></
-<h2><i>⚙️ GitHub Analytics</i></h2>
+<!-- Dark Mode Links -->
+
+  <img src="https://stats.quine.sh/awais882s/github?theme=dark" alt="Dark Mode Stats">
+  <img src="https://stats.quine.sh/awais882s/topics-over-time?theme=dark" alt="Dark Mode Topics Over Time">
+  <img src="https://stats.quine.sh/awais882s/languages-over-time?theme=dark" alt="Dark Mode Languages Over Time">
+
+<!-- Light Mode Links -->
+
+  <img src="https://stats.quine.sh/awais882s/github?theme=light" alt="Light Mode Stats">
+  <img src="https://stats.quine.sh/awais882s/topics-over-time?theme=light" alt="Light Mode Topics Over Time">
+  <img src="https://stats.quine.sh/awais882s/languages-over-time?theme=light" alt="Light Mode Languages Over Time">
+
+
 
   <p align="center">
         <a href="https://github.com/awais882s">
