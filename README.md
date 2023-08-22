@@ -92,6 +92,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
   </a>
 </div></br>
+
+<h1><i>⚙️My GitHub Analytics</i></h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/awais882s/github?theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats.quine.sh/awais882s/github?theme=light">
+</picture>
 <h1><i>⚙️My GitHub Analytics</i></h1>
  
 [![awais882s's GitHub | Stats](https://stats.quine.sh/awais882s/github?theme=dark)]()
