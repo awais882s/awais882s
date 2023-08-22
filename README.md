@@ -95,8 +95,11 @@
 <h1><i>⚙️My GitHub Analytics</i></h1>
  
 [![awais882s's GitHub | Stats](https://stats.quine.sh/awais882s/github?theme=dark)]()
+[![awais882s's GitHub | Stats](https://stats.quine.sh/awais882s/github?theme=light)]()
 [![awais882s's GitHub | Topics Over Time](https://stats.quine.sh/awais882s/topics-over-time?theme=dark)]()
+[![awais882s's GitHub | Topics Over Time](https://stats.quine.sh/awais882s/topics-over-time?theme=light)]()
 [![awais882s's GitHub | Languages Over Time](https://stats.quine.sh/awais882s/languages-over-time?theme=dark)]()
+[![awais882s's GitHub | Languages Over Time](https://stats.quine.sh/awais882s/languages-over-time?theme=light)]()
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
   <p align="center">
