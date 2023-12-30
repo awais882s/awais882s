@@ -18,7 +18,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505723/github-user-contribution_djkqqu.svg">
   <img alt="github-snake" src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505723/github-user-contribution_djkqqu.svg">
 </picture>
-
+<h1>Daily Dev</h1>
+https://api.daily.dev/devcards/2b2b13ee2a08498d83fefc7054774a20.png?r=kuo
 </br></br></br>
 <h1 align="left"> 🤝🏻 Connect with me:</h1></p><br>
 <div align="left">
