@@ -70,11 +70,11 @@
    </a>
 
    <a href="https://www.credly.com/badges/dc83623d-a846-43c3-8841-b843586bedbf">
-    <img height="200px" src="node-and-express-essentials.png">
+    <img height="200px" src="web-development-with-html-css-javascript-essentials.png">
    </a>
 
    <a href="https://www.credly.com/badges/bd77f6f3-a9e5-45e2-a756-9afbe8b20ced/public_url">
-    <img height="200px" src="python-for-data-science-and-ai.png">
+    <img height="200px" src="meta-front-end-developer-certificate.png">
    </a>
 </div>
 
