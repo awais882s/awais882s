@@ -23,14 +23,15 @@
    <a href="https://www.credly.com/badges/136d9528-ad7d-4c77-b471-0761f7fa174f" target="_blank">
     <img height="200px" src="front-end-development-with-react.png">
    </a>
-
    <a href="https://www.credly.com/badges/dc83623d-a846-43c3-8841-b843586bedbf" target="_blank">
     <img height="200px" src="web-development-with-html-css-javascript-essentials.png">
    </a>
    <a href="https://www.credly.com/badges/8d5c0db8-c6db-40c6-b5c0-0619fd2739fe" target="_blank">
     <img height="200px" src="node-and-express-essentials.png">
    </a>
-
+   <a href="https://www.credly.com/badges/1e50b53f-514c-43bf-bb91-0f7fbde0010f" target="_blank">
+    <img height="200px" src="git-and-github-essentials.1.png">
+   </a>
    <a href="https://www.credly.com/badges/bd77f6f3-a9e5-45e2-a756-9afbe8b20ced" target="_blank">
     <img height="200px" src="meta-front-end-developer-certificate.png">
    </a>
