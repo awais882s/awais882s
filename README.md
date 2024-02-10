@@ -63,6 +63,21 @@
 
 <p align="left"> <a href="https://twitter.com/awais882s" target="_blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p></br>
 
+<h2><i>🏅 Awards &  Badges</i></h2>
+<div align="center">
+   <a href="https://www.credly.com/badges/136d9528-ad7d-4c77-b471-0761f7fa174f">
+    <img height="200px" src="front-end-development-with-react.png">
+   </a>
+
+   <a href="https://www.credly.com/badges/dc83623d-a846-43c3-8841-b843586bedbf">
+    <img height="200px" src="node-and-express-essentials.png">
+   </a>
+
+   <a href="https://www.credly.com/badges/bd77f6f3-a9e5-45e2-a756-9afbe8b20ced/public_url">
+    <img height="200px" src="python-for-data-science-and-ai.png">
+   </a>
+</div>
+
 <!-- Bio -->
 - 👋 Hello! I'm Muhammad Awais, a Software Engineering student with a strong foundation and notable projects
 - 💪 I'm skilled in the MERN stack, and front-end development. 
