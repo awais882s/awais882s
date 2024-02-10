@@ -18,6 +18,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505723/github-user-contribution_djkqqu.svg">
   <img alt="github-snake" src="https://res.cloudinary.com/dtzcvsa8l/image/upload/v1692505723/github-user-contribution_djkqqu.svg">
 </picture>
+<h2><i>🏅 Awards &  Badges</i></h2>
+<div align="center">
+   <a href="https://www.credly.com/badges/136d9528-ad7d-4c77-b471-0761f7fa174f">
+    <img height="200px" src="front-end-development-with-react.png">
+   </a>
+
+   <a href="https://www.credly.com/badges/dc83623d-a846-43c3-8841-b843586bedbf">
+    <img height="200px" src="web-development-with-html-css-javascript-essentials.png">
+   </a>
+
+   <a href="https://www.credly.com/badges/bd77f6f3-a9e5-45e2-a756-9afbe8b20ced/public_url">
+    <img height="200px" src="meta-front-end-developer-certificate.png">
+   </a>
+</div>
 <h1>Daily Dev</h1>
 <a href="https://app.daily.dev/awais882s"><img src="https://api.daily.dev/devcards/2b2b13ee2a08498d83fefc7054774a20.png?r=i96" width="400" alt="Muhammad Awais's Dev Card"/></a>
 </br></br></br>
@@ -63,20 +77,6 @@
 
 <p align="left"> <a href="https://twitter.com/awais882s" target="_blank"><img src="https://img.shields.io/twitter/follow/awais882s?logo=twitter&style=for-the-badge" alt="awais882s" /></a> </p></br>
 
-<h2><i>🏅 Awards &  Badges</i></h2>
-<div align="center">
-   <a href="https://www.credly.com/badges/136d9528-ad7d-4c77-b471-0761f7fa174f">
-    <img height="200px" src="front-end-development-with-react.png">
-   </a>
-
-   <a href="https://www.credly.com/badges/dc83623d-a846-43c3-8841-b843586bedbf">
-    <img height="200px" src="web-development-with-html-css-javascript-essentials.png">
-   </a>
-
-   <a href="https://www.credly.com/badges/bd77f6f3-a9e5-45e2-a756-9afbe8b20ced/public_url">
-    <img height="200px" src="meta-front-end-developer-certificate.png">
-   </a>
-</div>
 
 <!-- Bio -->
 - 👋 Hello! I'm Muhammad Awais, a Software Engineering student with a strong foundation and notable projects
