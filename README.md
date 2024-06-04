@@ -1,4 +1,4 @@
-<h1 align="center">Hi I am Muhammad Awais Software Engineer</h1>
+<h1 align="center">Muhammad Awais Software Engineer</h1>
 
 <h2 align="center"> Full Stack Developer | Blockchain | React | ReactNative | NodeJS | NextJs | MySQL | MongoDB </h2>
 
